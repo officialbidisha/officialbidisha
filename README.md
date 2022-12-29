@@ -6,7 +6,8 @@
 
 ![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/officialbidisha/Codechef-Notifier-Ext)](https://github.com/officialbidisha/github-readme-stats)
+[![Readme Card](https://github.com/officialbidisha/FlyM)](https://github.com/officialbidisha/github-readme-stats)
 
 <!---
 officialbidisha/officialbidisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
