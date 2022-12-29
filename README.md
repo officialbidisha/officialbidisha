@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate with talented developers on UI Tech Stack, React, Vue or anything that involves new things to learn.
 - 📫 Reach me out on officialbidisha1@gmail.com
 
+[![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha)](https://github.com/officialbidisha/github-readme-stats)
+
 <!---
 officialbidisha/officialbidisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
