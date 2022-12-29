@@ -14,14 +14,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=compact)](https://github.com/officialbidisha/github-readme-stats)
 
-[![Bidisha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=officialbidisha)](https://github.com/officialbidisha/github-readme-stats)
-
 <p align="center">
   <a href="https://dev.to/officialbidisha">
     <img alt="Releases" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href=""><img alt="" src="" /></a>
-  <a href=""><img alt="" src="" /></a>
+  <a href="https://www.linkedin.com/in/bidisha-das/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/officialbidisha1/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 <!---
