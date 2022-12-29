@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=compact)](https://github.com/officialbidisha/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Bidisha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=officialbidisha)](https://github.com/officialbidisha/github-readme-stats)
 
 <!---
 officialbidisha/officialbidisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
