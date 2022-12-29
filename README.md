@@ -6,6 +6,8 @@
 
 [![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha)](https://github.com/officialbidisha/github-readme-stats&count_private=true&show_icons=true&theme=dark)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!---
 officialbidisha/officialbidisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
