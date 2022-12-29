@@ -16,6 +16,8 @@
 
 [![Bidisha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=officialbidisha)](https://github.com/officialbidisha/github-readme-stats)
 
+https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white(https://dev.to/officialbidisha)
+
 <!---
 officialbidisha/officialbidisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
