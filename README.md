@@ -6,12 +6,11 @@
 
 ![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=radical)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Codechef-Notifier-Ext)](https://github.com/officialbidisha/Codechef-Notifier-Ext) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=KanbanUI)](https://github.com/officialbidisha/KanbanUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=FlyM)](https://github.com/officialbidisha/FlyM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Slack-Clone)](https://github.com/officialbidisha/Slack-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=CustomToastWithReact)](https://github.com/officialbidisha/CustomToastWithReact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Codechef-Notifier-Ext)](https://github.com/officialbidisha/Codechef-Notifier-Ext) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=compact)](https://github.com/officialbidisha/github-readme-stats)
 
