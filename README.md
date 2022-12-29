@@ -12,6 +12,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Slack-Clone)](https://github.com/officialbidisha/Slack-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=CustomToastWithReact)](https://github.com/officialbidisha/CustomToastWithReact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=compact)](https://github.com/officialbidisha/github-readme-stats)
+
 
 <!---
 officialbidisha/officialbidisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
