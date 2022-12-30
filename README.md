@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @officialbidisha
+- 👋 Hi, I’m Bidisha
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.JS, Progressive Web Application
 - 💞️ I’m looking to collaborate with talented developers on UI Tech Stack, React, Vue or anything that involves new things to learn.
