@@ -6,9 +6,7 @@
 
 ![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=radical)
 
-[![Bidisha’s github stats](https://github-readme-stats.vercel.app/api?username=officialbidisha)](https://github.com/officialbidisha)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=compact)](https://github.com/officialbidisha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=compact)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Codechef-Notifier-Ext)](https://github.com/officialbidisha/Codechef-Notifier-Ext) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=KanbanUI)](https://github.com/officialbidisha/KanbanUI)
