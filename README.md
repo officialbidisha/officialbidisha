@@ -6,8 +6,8 @@
 - ![wordpress (1)](https://github.com/officialbidisha/officialbidisha/assets/49115207/61128263-3b17-4844-9ffb-c698e77cd32a) To have a glimpse inside my
   blog, do explore: https://bidishadas1.wordpress.com
   - https://portfolio-bidisha.vercel.app/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
-
-![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true)
+ 
+[![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Codechef-Notifier-Ext)](https://github.com/officialbidisha/Codechef-Notifier-Ext) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=KanbanUI)](https://github.com/officialbidisha/KanbanUI)
