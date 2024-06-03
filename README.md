@@ -7,7 +7,7 @@
   blog, do explore: https://bidishadas1.wordpress.com
   - https://portfolio-bidisha.vercel.app/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
  
-[![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=transparent)
+![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=transparent)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Codechef-Notifier-Ext)](https://github.com/officialbidisha/Codechef-Notifier-Ext) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=KanbanUI)](https://github.com/officialbidisha/KanbanUI)
