@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Next.JS, Progressive Web Application
 - 💞️ I’m looking to collaborate with talented developers on UI Tech Stack, React, Vue or anything that involves new things to learn.
 - 📫 Reach me out on officialbidisha1@gmail.com
-- ![wordpress (1)](https://github.com/officialbidisha/officialbidisha/assets/49115207/61128263-3b17-4844-9ffb-c698e77cd32a) To have a glimpse inside my
-  blog, do explore: https://bidishadas1.wordpress.com
-  - https://portfolio-bidisha.vercel.app/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
+- https://portfolio-bidisha.vercel.app/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
  
 ![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=transparent)
 
