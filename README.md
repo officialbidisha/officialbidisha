@@ -5,7 +5,8 @@
 - 📫 Reach me out on officialbidisha1@gmail.com
 - https://portfolio-bidisha.vercel.app/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
  
-![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=transparent)
+[![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=github-readme-stats&show_icons=true&theme=transparent)](https://github.com/officialbidiha/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Codechef-Notifier-Ext&theme=transparent)](https://github.com/officialbidisha/Codechef-Notifier-Ext) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=KanbanUI&theme=transparent)](https://github.com/officialbidisha/KanbanUI)
