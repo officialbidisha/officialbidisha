@@ -17,6 +17,8 @@
 
 ![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![](https://komarev.com/ghpvc/?username=officialbidisha)
+
 <p align="center">
   <a href="https://dev.to/officialbidisha">
     <img alt="Releases" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
