@@ -5,7 +5,6 @@
 - 📫 Reach me out on officialbidisha1@gmail.com
 - https://portfolio-bidisha.vercel.app/ - this is my portfolio, just in case , if you wanna explore. You can find interesting projects there.
 
-![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Codechef-Notifier-Ext&theme=transparent)](https://github.com/officialbidisha/Codechef-Notifier-Ext) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=KanbanUI&theme=transparent)](https://github.com/officialbidisha/KanbanUI)
@@ -15,6 +14,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=CustomToastWithReact&theme=transparent)](https://github.com/officialbidisha/CustomToastWithReact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=donut-vertical&theme=transparent)](https://github.com/officialbidisha/github-readme-stats)
+
+![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p align="center">
   <a href="https://dev.to/officialbidisha">
