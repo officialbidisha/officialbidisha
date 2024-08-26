@@ -13,9 +13,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=Slack-Clone&theme=transparent)](https://github.com/officialbidisha/Slack-Clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=officialbidisha&repo=CustomToastWithReact&theme=transparent)](https://github.com/officialbidisha/CustomToastWithReact)
 
+![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=donut-vertical&theme=transparent)](https://github.com/officialbidisha/github-readme-stats)
 
-![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 ![](https://komarev.com/ghpvc/?username=officialbidisha)
 
