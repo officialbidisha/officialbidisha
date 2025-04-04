@@ -18,9 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=donut-vertical&theme=transparent)](https://github.com/officialbidisha/github-readme-stats)
 
 
-
-![](https://leetcode.com/u/noob_1012/)
-
 <p align="center">
   <a href="https://dev.to/officialbidisha">
     <img alt="Releases" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
