@@ -19,7 +19,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=officialbidisha)
+![](https://komarev.com/ghpvc/?username=noob_1012)
 
 <p align="center">
   <a href="https://dev.to/officialbidisha">
