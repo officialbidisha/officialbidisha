@@ -19,7 +19,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=noob_1012)
+![](https://leetcode.com/u/noob_1012/)
 
 <p align="center">
   <a href="https://dev.to/officialbidisha">
