@@ -22,9 +22,6 @@ DASH/HLS media player library.
 
 ## GitHub stats
 
-![Bidisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbidisha&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbidisha&layout=compact&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=officialbidisha&hide_border=true)
 
 ## Connect
