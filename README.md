@@ -9,6 +9,8 @@ deep on **Python**, carrying years of **JavaScript** and data-structures-and-alg
 practice into idiomatic, test-driven Python. I learn by building and breaking things,
 not by following tutorials.
 
+I have gurus and I admire them. Some of them, I won't name. I write occasionally here : https://bidishadas1.wordpress.com/2026/08/19/brainy-is-the-new-sexy/
+
 [![dev.to](https://img.shields.io/badge/dev.to-@officialbidisha-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/officialbidisha)
 [![Profile views](https://komarev.com/ghpvc/?username=officialbidisha&style=flat-square&color=blue&label=Profile+views)](https://github.com/officialbidisha)
 [![GitHub followers](https://img.shields.io/github/followers/officialbidisha?style=flat-square&label=Followers&color=blue)](https://github.com/officialbidisha?tab=followers)
