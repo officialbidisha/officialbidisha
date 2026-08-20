@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+RAG+%2B+agent+systems+with+LangChain+%26+LangGraph;Going+deep+on+Python%2C+carrying+years+of+JS+%2B+DSA+with+me;I+learn+by+building+and+breaking+things%2C+not+tutorials)](https://git.io/typing-svg)
 
-I have gurus and I admire them. Some of them, I won't name. I write occasionally here: [bidishadas1.wordpress.com](https://bidishadas1.wordpress.com/2026/08/19/brainy-is-the-new-sexy/)
+I write occasionally here: [bidishadas1.wordpress.com](https://bidishadas1.wordpress.com/2026/08/19/brainy-is-the-new-sexy/)
 
 [![dev.to](https://img.shields.io/badge/dev.to-@officialbidisha-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/officialbidisha)
 [![Profile views](https://komarev.com/ghpvc/?username=officialbidisha&style=flat-square&color=blue&label=Profile+views)](https://github.com/officialbidisha)
