@@ -2,7 +2,7 @@
 
 # Hi, I'm Bidisha 👋
 
-**Senior Software Engineer · Bangalore, India**
+**Senior Software Engineer building agentic AI systems · Bangalore, India**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+RAG+%2B+agent+systems+with+LangChain+%26+LangGraph;Going+deep+on+Python%2C+carrying+years+of+JS+%2B+DSA+with+me;I+learn+by+building+and+breaking+things%2C+not+tutorials)](https://git.io/typing-svg)
 
@@ -32,11 +32,12 @@ I have gurus and I admire them. Some of them, I won't name. I write occasionally
 
 ### 🧰 Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-0B3D2E?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🛠️ Also building
