@@ -4,12 +4,9 @@
 
 **Senior Software Engineer · Bangalore, India**
 
-Building RAG and agent systems with **LangChain** and **LangGraph** — currently going
-deep on **Python**, carrying years of **JavaScript** and data-structures-and-algorithms
-practice into idiomatic, test-driven Python. I learn by building and breaking things,
-not by following tutorials.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+RAG+%2B+agent+systems+with+LangChain+%26+LangGraph;Going+deep+on+Python%2C+carrying+years+of+JS+%2B+DSA+with+me;I+learn+by+building+and+breaking+things%2C+not+tutorials)](https://git.io/typing-svg)
 
-I have gurus and I admire them. Some of them, I won't name. I write occasionally here : https://bidishadas1.wordpress.com/2026/08/19/brainy-is-the-new-sexy/
+I have gurus and I admire them. Some of them, I won't name. I write occasionally here: [bidishadas1.wordpress.com](https://bidishadas1.wordpress.com/2026/08/19/brainy-is-the-new-sexy/)
 
 [![dev.to](https://img.shields.io/badge/dev.to-@officialbidisha-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/officialbidisha)
 [![Profile views](https://komarev.com/ghpvc/?username=officialbidisha&style=flat-square&color=blue&label=Profile+views)](https://github.com/officialbidisha)
@@ -19,7 +16,21 @@ I have gurus and I admire them. Some of them, I won't name. I write occasionally
 
 ---
 
-### Stack
+### 🔭 Featured project
+
+<table>
+<tr>
+<td>
+
+**[ResolveFlow](https://github.com/officialbidisha/ResolveFlow)** — a LangGraph agent that diagnoses GitHub issues and proposes fixes with cited evidence, but never touches GitHub without passing an **independent LLM review** *and* an **explicit human approval**. Built to show a hard architectural line between reasoning (diagnosis, retrieval, classification) and execution (the one deterministic write layer, gated by design — not convention).
+
+`LangGraph` `StateGraph` `RAG` `Pinecone` `OpenAI` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+### 🧰 Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,7 +39,7 @@ I have gurus and I admire them. Some of them, I won't name. I write occasionally
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### What I'm building
+### 🛠️ Also building
 
 - **[Langchain-In-Depth](https://github.com/officialbidisha/Langchain-In-Depth)** — hands-on LangChain/LangGraph: RAG pipelines, tool-calling agents, ReAct loops, guardrails. One concept per script, documented with the real bugs hit and fixed along the way, not just the final working code.
 - **[Leetcode-Python](https://github.com/officialbidisha/Leetcode-Python)** — Python DSA solutions written test-first while learning the language, coming from a JavaScript background.
@@ -38,7 +49,7 @@ Also an active open-source contributor — most recently a bugfix and test-cover
 to [shaka-player](https://github.com/shaka-project/shaka-player), Google's DASH/HLS
 media player library.
 
-### GitHub stats
+### 📊 GitHub stats
 
 <div align="center">
 
@@ -61,7 +72,7 @@ media player library.
 
 </div>
 
-### Connect
+### 📫 Connect
 
 [dev.to/officialbidisha](https://dev.to/officialbidisha) — write-ups on LangChain, RAG debugging, and the JS → Python DSA transition.
 
