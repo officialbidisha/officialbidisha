@@ -22,9 +22,11 @@ I write occasionally here: [bidishadas1.wordpress.com](https://bidishadas1.wordp
 <tr>
 <td>
 
-**[ResolveFlow](https://github.com/officialbidisha/ResolveFlow)** — a LangGraph agent that diagnoses GitHub issues and proposes fixes with cited evidence, but never touches GitHub without passing an **independent LLM review** *and* an **explicit human approval**. Built to show a hard architectural line between reasoning (diagnosis, retrieval, classification) and execution (the one deterministic write layer, gated by design — not convention).
+**[ResolveFlow](https://github.com/officialbidisha/ResolveFlow)** — a LangGraph agent that diagnoses GitHub issues and proposes fixes, but never touches GitHub without an **independent LLM review** *and* **explicit human approval** — reasoning and execution separated by construction, not convention. Live and deployed: sign in with your own GitHub account and every write runs as *you*; diagnoses are grounded in retrieval gated by a measured relevance threshold (not just "cited a real id"); the review model's approve/escalate call is deterministic code, never trusted from the LLM; the approval pause is a real LangGraph `interrupt()` persisted in Postgres, resumable hours later from a different request. Backed by a regression eval suite — `pass^k` semantics, one bypassed safety gate is a critical failure, not an average.
 
-`LangGraph` `StateGraph` `RAG` `Pinecone` `OpenAI` `Streamlit`
+**[Live demo](https://resolveflow-web-officialbidishas-projects.vercel.app/)** · **[README](https://github.com/officialbidisha/ResolveFlow#readme)**
+
+`LangGraph` `RAG` `Pinecone` `FastAPI` `React` `PostgreSQL` `OAuth`
 
 </td>
 </tr>
@@ -36,6 +38,8 @@ I write occasionally here: [bidishadas1.wordpress.com](https://bidishadas1.wordp
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0B3D2E?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -44,7 +48,7 @@ I write occasionally here: [bidishadas1.wordpress.com](https://bidishadas1.wordp
 
 - **[Langchain-In-Depth](https://github.com/officialbidisha/Langchain-In-Depth)** — hands-on LangChain/LangGraph: RAG pipelines, tool-calling agents, ReAct loops, guardrails. One concept per script, documented with the real bugs hit and fixed along the way, not just the final working code.
 - **[Leetcode-Python](https://github.com/officialbidisha/Leetcode-Python)** — Python DSA solutions written test-first while learning the language, coming from a JavaScript background.
-- **[UberDSA](https://github.com/officialbidisha/UberDSA)**, **[Polyfills](https://github.com/officialbidisha/Polyfills)**, **[HTMLCSSMachineCoding](https://github.com/officialbidisha/HTMLCSSMachineCoding)** — interview-prep repos: real interview questions, JavaScript polyfills, and front-end machine-coding exercises.
+- **[UberDSA](https://github.com/officialbidisha/UberDSA)**, **[ReactChallenges](https://github.com/officialbidisha/ReactChallenges)** — interview-prep repos: real interview questions and React-specific machine-coding exercises, kept for the frontend/JS depth behind the AI-systems work above.
 
 Also an active open-source contributor — most recently a bugfix and test-coverage PR
 to [shaka-player](https://github.com/shaka-project/shaka-player), Google's DASH/HLS
