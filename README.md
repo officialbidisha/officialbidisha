@@ -66,15 +66,29 @@ A LangGraph agent that diagnoses GitHub issues and proposes fixes, but **never t
 
 ### 🌱 Open source
 
+**Merged**
+
 | Project | Pull request | Status |
 |---|---|---|
+| [supabase/mcp](https://github.com/supabase/mcp) | [feat(mcp-server-supabase): add optional schemas parameter to generate_typescript_types](https://github.com/supabase/mcp/pull/592) | ![](https://img.shields.io/github/pulls/detail/state/supabase/mcp/592?style=flat-square&label=) |
+| [astro-weights](https://github.com/astro-weights/astro-weights) | [mcp: tool descriptions state the export rank limit; Codex how-to tested](https://github.com/astro-weights/astro-weights/pull/139) | ![](https://img.shields.io/github/pulls/detail/state/astro-weights/astro-weights/139?style=flat-square&label=) |
 | [shaka-player](https://github.com/shaka-project/shaka-player) (Google's DASH/HLS player) | [feat(DASH): subtitle support for `role` attribute and `kind='subtitle'`](https://github.com/shaka-project/shaka-player/pull/10441) | ![](https://img.shields.io/github/pulls/detail/state/shaka-project/shaka-player/10441?style=flat-square&label=) |
+| [shaka-player](https://github.com/shaka-project/shaka-player) | [chore: Update CONTRIBUTORS](https://github.com/shaka-project/shaka-player/pull/5424) | ![](https://img.shields.io/github/pulls/detail/state/shaka-project/shaka-player/5424?style=flat-square&label=) |
 | [shaka-player](https://github.com/shaka-project/shaka-player) | [fix(HLS): add subtitle role when there are no roles](https://github.com/shaka-project/shaka-player/pull/5357) | ![](https://img.shields.io/github/pulls/detail/state/shaka-project/shaka-player/5357?style=flat-square&label=) |
+| [frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) | [Dynamic Tooltip](https://github.com/sadanandpai/frontend-mini-challenges/pull/448) | ![](https://img.shields.io/github/pulls/detail/state/sadanandpai/frontend-mini-challenges/448?style=flat-square&label=) |
+
+**In review (open, not yet merged)**
+
+| Project | Pull request | Status |
+|---|---|---|
+| [supabase/mcp](https://github.com/supabase/mcp) | [fix(mcp-server-supabase): match Studio's notebook row_limit and clarify skip and blank-input messages](https://github.com/supabase/mcp/pull/593) | ![](https://img.shields.io/github/pulls/detail/state/supabase/mcp/593?style=flat-square&label=) |
 | [supabase/agent-skills](https://github.com/supabase/agent-skills) | [fix(supabase): verify effective Data API grants before committing a migration](https://github.com/supabase/agent-skills/pull/651) | ![](https://img.shields.io/github/pulls/detail/state/supabase/agent-skills/651?style=flat-square&label=) |
 | [supabase](https://github.com/supabase/supabase) | [fix(studio): keep valid backslash literals in Assistant SQL](https://github.com/supabase/supabase/pull/53226) | ![](https://img.shields.io/github/pulls/detail/state/supabase/supabase/53226?style=flat-square&label=) |
 | [supabase](https://github.com/supabase/supabase) | [docs(branching): document overlapping production deploy runs](https://github.com/supabase/supabase/pull/53156) | ![](https://img.shields.io/github/pulls/detail/state/supabase/supabase/53156?style=flat-square&label=) |
 | [compodoc](https://github.com/compodoc/compodoc) | [fix(markdown): add anchor ids to generated headings](https://github.com/compodoc/compodoc/pull/1765) | ![](https://img.shields.io/github/pulls/detail/state/compodoc/compodoc/1765?style=flat-square&label=) |
 | [compodoc](https://github.com/compodoc/compodoc) | [feat(schemas): JSON schema for additional documentation `summary.json`](https://github.com/compodoc/compodoc/pull/1766) | ![](https://img.shields.io/github/pulls/detail/state/compodoc/compodoc/1766?style=flat-square&label=) |
+
+**My own open source:** [Codechef-Notifier-Ext](https://github.com/officialbidisha/Codechef-Notifier-Ext), a notifier for CodeChef users (1 star). Other public repos are featured above.
 
 ---
 
