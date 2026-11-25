@@ -19,7 +19,7 @@ permission-aware execution, human approval, and evals that gate every release.
 
 - **6 years of production engineering** in **Java, Python and TypeScript**: enterprise AI agents at **Salesforce**, video playback for **50M+ users** at **Disney+ Hotstar**, regulated lending and forex workflows at **MakeMyTrip**.
 - **Agent infrastructure:** MCP servers and tool contracts, supervisor/specialist orchestration, approval-gated writes, LLM evaluation with must-pass safety cases.
-- **Open source:** merged fixes in Google's **[Shaka Player](https://github.com/shaka-project/shaka-player)**; contributions to **[Supabase](https://github.com/supabase)** (Studio, docs, agent skills).
+- **Open source:** merged a feature in **[Supabase's MCP server](https://github.com/supabase/mcp)** (schema filtering for `generate_typescript_types`) and merged work in Google's **[Shaka Player](https://github.com/shaka-project/shaka-player)**; further contributions to **[Supabase](https://github.com/supabase)** (Studio, docs, agent skills).
 - **Side projects you can try:** a deployed agent with real OAuth and durable human approval, and a multilingual router with a fail-closed safety gate.
 
 ---
