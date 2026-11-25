@@ -19,7 +19,7 @@ permission-aware execution, human approval, and evals that gate every release.
 
 - **6 years of production engineering** in **Java, Python and TypeScript**: enterprise AI agents at **Salesforce**, video playback for **50M+ users** at **Disney+ Hotstar**, regulated lending and forex workflows at **MakeMyTrip**.
 - **Agent infrastructure:** MCP servers and tool contracts, supervisor/specialist orchestration, approval-gated writes, LLM evaluation with must-pass safety cases.
-- **Open source:** merged a feature in **[Supabase's MCP server](https://github.com/supabase/mcp)** (schema filtering for `generate_typescript_types`) and merged work in Google's **[Shaka Player](https://github.com/shaka-project/shaka-player)**; further contributions to **[Supabase](https://github.com/supabase)** (Studio, docs, agent skills).
+- **Open source:** merged a feature and a fix in **[Supabase's MCP server](https://github.com/supabase/mcp)** (schema filtering for `generate_typescript_types`; notebook `row_limit` that now matches Studio) and merged work in Google's **[Shaka Player](https://github.com/shaka-project/shaka-player)**; further contributions to **[Supabase](https://github.com/supabase)** (Studio, docs, agent skills).
 - **Side projects you can try:** a deployed agent with real OAuth and durable human approval, and a multilingual router with a fail-closed safety gate.
 
 ---
@@ -70,6 +70,7 @@ A LangGraph agent that diagnoses GitHub issues and proposes fixes, but **never t
 
 | Project | Pull request | Status |
 |---|---|---|
+| [supabase/mcp](https://github.com/supabase/mcp) | [fix(mcp-server-supabase): match Studio's notebook row_limit and clarify skip and blank-input messages](https://github.com/supabase/mcp/pull/593) | ![](https://img.shields.io/github/pulls/detail/state/supabase/mcp/593?style=flat-square&label=) |
 | [supabase/mcp](https://github.com/supabase/mcp) | [feat(mcp-server-supabase): add optional schemas parameter to generate_typescript_types](https://github.com/supabase/mcp/pull/592) | ![](https://img.shields.io/github/pulls/detail/state/supabase/mcp/592?style=flat-square&label=) |
 | [astro-weights](https://github.com/astro-weights/astro-weights) | [mcp: tool descriptions state the export rank limit; Codex how-to tested](https://github.com/astro-weights/astro-weights/pull/139) | ![](https://img.shields.io/github/pulls/detail/state/astro-weights/astro-weights/139?style=flat-square&label=) |
 | [shaka-player](https://github.com/shaka-project/shaka-player) (Google's DASH/HLS player) | [feat(DASH): subtitle support for `role` attribute and `kind='subtitle'`](https://github.com/shaka-project/shaka-player/pull/10441) | ![](https://img.shields.io/github/pulls/detail/state/shaka-project/shaka-player/10441?style=flat-square&label=) |
@@ -81,7 +82,6 @@ A LangGraph agent that diagnoses GitHub issues and proposes fixes, but **never t
 
 | Project | Pull request | Status |
 |---|---|---|
-| [supabase/mcp](https://github.com/supabase/mcp) | [fix(mcp-server-supabase): match Studio's notebook row_limit and clarify skip and blank-input messages](https://github.com/supabase/mcp/pull/593) | ![](https://img.shields.io/github/pulls/detail/state/supabase/mcp/593?style=flat-square&label=) |
 | [supabase/agent-skills](https://github.com/supabase/agent-skills) | [fix(supabase): verify effective Data API grants before committing a migration](https://github.com/supabase/agent-skills/pull/651) | ![](https://img.shields.io/github/pulls/detail/state/supabase/agent-skills/651?style=flat-square&label=) |
 | [supabase](https://github.com/supabase/supabase) | [fix(studio): keep valid backslash literals in Assistant SQL](https://github.com/supabase/supabase/pull/53226) | ![](https://img.shields.io/github/pulls/detail/state/supabase/supabase/53226?style=flat-square&label=) |
 | [supabase](https://github.com/supabase/supabase) | [docs(branching): document overlapping production deploy runs](https://github.com/supabase/supabase/pull/53156) | ![](https://img.shields.io/github/pulls/detail/state/supabase/supabase/53156?style=flat-square&label=) |
